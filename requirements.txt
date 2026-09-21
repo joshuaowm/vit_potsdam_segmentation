@@ -1,0 +1,10 @@
+torch
+torchvision
+torchgeo
+numpy
+rasterio
+scikit-image
+matplotlib
+pillow
+tqdm
+jupyterlab
